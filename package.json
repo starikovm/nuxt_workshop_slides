@@ -1,25 +1,11 @@
 {
-  "name": "shower",
-  "description": "Shower HTML presentation engine",
+  "name": "nuxt-workshop-slides",
+  "description": "Slides for the nuxt workshop developed on Shower presentation engine",
   "version": "2.6.4",
   "author": {
-    "name": "Vadim Makeev",
-    "url": "https://pepelsbey.net/"
+    "name": "Mikhail Starikov",
+    "url": "https://starikovm.github.io/"
   },
-  "homepage": "https://github.com/shower/shower",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/shower/shower.git"
-  },
-  "bugs": {
-    "url": "http://github.com/shower/shower/issues"
-  },
-  "license": "MIT",
-  "keywords": [
-    "shower",
-    "presentation",
-    "template"
-  ],
   "files": [
     "pictures/**",
     "index.html",
